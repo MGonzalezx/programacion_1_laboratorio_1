@@ -55,7 +55,7 @@ int main()
 
     printf("El maximo es: %d\n",maximo);
     printf("El minimo es: %d\n",minimo);
-    printf("El promedio es: %f\n",((float)promedio/5));
+    printf("El promedio es: %.2f\n",((float)promedio/5));
     return 0;
 
 
